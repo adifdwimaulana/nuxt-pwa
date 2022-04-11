@@ -82,11 +82,6 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
-        {
-          icon: 'mdi-database',
-          title: 'Detail',
-          to: '/detail',
-        },
       ],
       miniVariant: false,
       right: true,
